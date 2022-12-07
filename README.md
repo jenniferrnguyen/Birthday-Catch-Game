@@ -5,7 +5,7 @@
 - I created this game in my first term of undergrad as a birthday surprise for my friend.
 - This game used a systematic test-driven methodology. 
 - Through completing this project I was able to apply and solidify concepts I learned my first CS course.
-- I was able to explore both basic programming for both front end and back end development.
+- I was able to explore basic programming for both front end and back end development.
 
 ## Game Description 
 - Birthday-Catch-Game is a simple desktop application.
