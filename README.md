@@ -21,7 +21,7 @@
 <img width="1210" alt="Screen Shot 2022-12-07 at 10 14 56 AM" src="https://user-images.githubusercontent.com/119923836/206264850-cd6d0699-5893-4cdd-988a-7883169f8a27.png">
 <img width="1201" alt="Screen Shot 2022-12-07 at 10 30 42 AM" src="https://user-images.githubusercontent.com/119923836/206266441-6ebde447-6ad9-419b-99df-66ea830b2b6f.png">
 
-## If I Had More Time / Improvements/Advancements I Would Make:
+## If I Had More Time || Improvements/Advancements I Would Make:
 - I would add a scorbouard to keep track of the number of balls that were caught. 
 - Currently the Game runs forever until the user exits the application window. A functionality that would be interesting to add is a time limit so that there is an atomic end to each game. Additionally, this would also allow for other functionalites such as having a leaderboard or highscore for the number of balls caught during the game duration. 
 - Instead of having one ball, I this it would be more engaging to have a pool of differnt ball types. Then whenever a new ball is created by the user clicking the screen, one of the balls is randomly drawn from theball pool (i.e., similar to how a new ball gets a random velosity).
